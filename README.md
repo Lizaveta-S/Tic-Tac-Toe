@@ -4,4 +4,4 @@ The repository contains solution for the Tic-Tac-Toe project of Hyperskills.org'
 
 Описание файлов:
 
-demonstration.mp4 - файл содержит демонстрацию того, как должна работать кофемашина.
+demonstration.mp4 - файл содержит демонстрацию того, как должна работать игра.
